@@ -30,8 +30,9 @@ Nous devions mettre en place une évaluation rigoureuse des performances de la r
 Nous avons fait le nettoyage des données puis l'analyse exploratoire. Nous avons fait la matrice de correlation pour étudier les différentes correlations.
  <img Align="left" alt="Matrice" width="200px" src="https://github.com/laetdata/Anticipez_les_besoins/blob/main/img/matrice_correlation.png" style="padding-right:10px;" />
 <br />
-                                                                                                                                      
 Nous avons ensuite fait les analyses statistiques univariée et bivariée puis nous avons encore fait l'exploration des données. Ensuite nous avons fait les prédictions. 
+                                                                                                                                      
+ 
 ---
 
 
