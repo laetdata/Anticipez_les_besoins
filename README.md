@@ -36,7 +36,7 @@ Nous avons ensuite fait les analyses statistiques univariée et bivariée puis n
 
 
 <br />
-En conclusion les meilleurs modèles sont pour TotalGHEmissions c'est la Regression Gradient Boosting le meilleur modèle. Pour SiteEnergyUse le meilleur modèle c'est la regression Gradient Boosting.
+En conclusion les meilleurs modèles sont pour TotalGHEmissions c'est la Regression Gradient Boosting le meilleur modèle. ENERGYSTARScore améliore le modèle pour la prévision d'émissions de CO2. Pour SiteEnergyUse le meilleur modèle c'est la regression Gradient Boosting.
 <br />
                                                                                                                                       
 
